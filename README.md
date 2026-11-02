@@ -13,7 +13,7 @@
 
 [linkedin-shield]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 [linkedin-url]: https://linkedin.com/in/omaradil
-[Trainer-shield]: https://img.shields.io/badge/Trainer%20With-Orhan%20Ergun-yellow?style=for-the-badge
-[Trainer-url]: http://www.orhanergun.net/itcourses/index.php?route=product/manufacturer/info&manufacturer_id=17
-[OEGB-shield]: https://img.shields.io/badge/My%20Ansible-Play%20Books-violet?style=for-the-badge
+[Trainer-shield]: https://img.shields.io/badge/Fortinet%20Training-white?style=for-the-badge&logo=fortinet
+[Trainer-url]: https://iiinetworking.com/
+[OEGB-shield]: https://img.shields.io/badge/My%20Ansible-gray?style=for-the-badge&logo=ansible
 [OEGB-url]: https://github.com/OrhanErgun-net/Ansible-Deep-Dive
